@@ -1,7 +1,7 @@
 # ReadMe
 Hello Everyone,
 
-I am Oleh, a highly skilled and experienced full-stack web developer with a passion for creating innovative and cutting-edge web solutions. With over 7+ years of experience in the IT field.
+I am a highly skilled and experienced full-stack web developer with a passion for creating innovative and cutting-edge web solutions. With over 7+ years of experience in the IT field.
 
 ⭐I have strong experience with a deep expertise in a wide range of programming languages, frameworks, and tools, including JavaScript, PHP, MySQL, Python, Django, HTML, CSS, React, Angular, Vue, Node and more.
 
